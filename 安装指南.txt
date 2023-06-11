@@ -1,0 +1,4 @@
+1. 首先导入dump-tracker-202206101647.sql，可以连接到数据库。
+2. 修改config.py，将其中的username和password改为当前主机的用户名和密码
+3. pip install -r requirements.txt
+4. 运行文件server.py和server_cloud.py
